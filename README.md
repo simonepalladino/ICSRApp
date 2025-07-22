@@ -1,1 +1,1 @@
-# ICSRApp
+This project was the subject of my undergraduate thesis in computer science. I developed an application for an international conference on social robotics that provides essential information for anyone interested in the event. Developed with Swift/Swift UI, the application also included a tourist recommendation system using Python.
